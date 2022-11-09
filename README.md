@@ -1,17 +1,19 @@
 # intotoprogrammingfinalproject
 introToProgrammingFinalProjectP1
-Project Title
-Simple overview of use/purpose.
+Get the Mob
+Move around platforms to get the prize to move on
 
 Description
-An in-depth paragraph about your project and overview of use.
+There are 3 levels, each level becomes increasngl more complex to go around. You will use the character to and manuever the character around walls through mazes to reach the prize. Only when the player reaches the prize will they be able to move forward.
 
 Getting Started
 Dependencies
 Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 ex. Python 3.x, Pygame, etc.
+
 Installing
 How/where to download your program
+NA
 Any modifications needed to be made to files/folders
 Executing program
 How to run the program
@@ -24,21 +26,15 @@ command to run if program contains helper info
 Authors
 Contributors names and contact info
 
-ex. Chris Cozort
-ex. ccozort@bcp.org
+Gavin Hartman
+gavin.hartman24@bcp.org
 
 Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+NA
 
 Acknowledgments
 Inspiration, code snippets, etc.
 
 w3Schools
 PyGame
-Automate The Boring Stuff
+Mr. Cozorts Library, kidscancode.com
